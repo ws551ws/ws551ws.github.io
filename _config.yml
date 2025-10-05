@@ -1,0 +1,13 @@
+# 站点设置
+title: "每日信息发布"
+description: "手机优化的每日更新页面"
+baseurl: ""
+url: "https://ws551ws.github.io"
+theme: minima
+
+# 移动端优化
+mobile_optimized: true
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
