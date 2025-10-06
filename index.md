@@ -10,7 +10,7 @@ mobile: true
     <!-- 顶部标题栏 -->
     <header class="mobile-header">
         <div class="header-content">
-            <h1>📱 每日信息发布</h1>
+            <h1>📱 杰航人力每日信息发布</h1>
             <div class="date-info">
                 <span class="current-date" id="currentDate"></span>
                 <span class="update-time">更新于: <span id="updateTime"></span></span>
